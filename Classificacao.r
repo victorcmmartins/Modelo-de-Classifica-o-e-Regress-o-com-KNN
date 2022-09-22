@@ -1,3 +1,4 @@
+## LINK DA AULA ASSISTIDA PARA REPRODUÇÃO DESSE MODELO: https://www.youtube.com/watch?v=xi4QozvOJGo&t=3790s ##
 # DataSource
   setwd("C:/Users/Victor Martins/Documents/Estudos/Modelo-de-Classifica-o-e-Regress-o-com-KNN/DataSource") 
 
