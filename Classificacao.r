@@ -110,7 +110,7 @@ set.seed(123)
 ctrl <- trainControl(method = "cv", 
                     number = 10)
 
-knnFit <- train(Survived ~ . ,
+knnFit <- train(medv ~ . ,
                 method     = "knn",
                 preProcess = c("center","scale"), 
                 tuneLength = 20, 
